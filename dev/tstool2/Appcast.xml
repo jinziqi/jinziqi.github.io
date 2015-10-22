@@ -6,12 +6,12 @@
       <description>Most recent changes with links to updates.</description>
       <language>en</language>
          <item>
-            <title>Version 0.5.3</title>
+            <title>Version 0.5.4</title>
             <sparkle:releaseNotesLink>
               http://jinziqi.github.io/TSTool/update/release.html
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 03 Oct 2015 19:20:11 +0000</pubDate>
-            <enclosure url="https://github.com/brightideainc/TSTool/releases/download/0.5.3/TS.Tool.MacOSX.zip" sparkle:version="7" sparkle:shortVersionString="0.5.3" length="1496280" type="application/octet-stream" sparkle:dsaSignature="MC0CFEkQIVVdl+HBlz3XxupUcgHUuwWAAhUA5ICyU+a6cL5LYubZ/YSCGuYl2HI="/>
+            <enclosure url="https://github.com/brightideainc/TSTool/releases/download/0.5.4/TS.Tool.MacOSX.zip" sparkle:version="8" sparkle:shortVersionString="0.5.4" length="1496172" type="application/octet-stream" sparkle:dsaSignature="MCwCFDf7bidRZdh8khGvGIncgvf+ewkYAhRohkNWQ4eFvbdFtJftfQOdCafjog=="/>
          </item>
    </channel>
 </rss>
